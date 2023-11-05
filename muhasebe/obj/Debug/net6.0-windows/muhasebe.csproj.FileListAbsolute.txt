@@ -1,0 +1,16 @@
+C:\Users\alimu\Desktop\OOP\proje\muhasebe\muhasebe\bin\Debug\net6.0-windows\muhasebe.exe
+C:\Users\alimu\Desktop\OOP\proje\muhasebe\muhasebe\bin\Debug\net6.0-windows\muhasebe.deps.json
+C:\Users\alimu\Desktop\OOP\proje\muhasebe\muhasebe\bin\Debug\net6.0-windows\muhasebe.runtimeconfig.json
+C:\Users\alimu\Desktop\OOP\proje\muhasebe\muhasebe\bin\Debug\net6.0-windows\muhasebe.dll
+C:\Users\alimu\Desktop\OOP\proje\muhasebe\muhasebe\bin\Debug\net6.0-windows\muhasebe.pdb
+C:\Users\alimu\Desktop\OOP\proje\muhasebe\muhasebe\obj\Debug\net6.0-windows\muhasebe.Form1.resources
+C:\Users\alimu\Desktop\OOP\proje\muhasebe\muhasebe\obj\Debug\net6.0-windows\muhasebe.csproj.GenerateResource.cache
+C:\Users\alimu\Desktop\OOP\proje\muhasebe\muhasebe\obj\Debug\net6.0-windows\muhasebe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alimu\Desktop\OOP\proje\muhasebe\muhasebe\obj\Debug\net6.0-windows\muhasebe.AssemblyInfoInputs.cache
+C:\Users\alimu\Desktop\OOP\proje\muhasebe\muhasebe\obj\Debug\net6.0-windows\muhasebe.AssemblyInfo.cs
+C:\Users\alimu\Desktop\OOP\proje\muhasebe\muhasebe\obj\Debug\net6.0-windows\muhasebe.csproj.CoreCompileInputs.cache
+C:\Users\alimu\Desktop\OOP\proje\muhasebe\muhasebe\obj\Debug\net6.0-windows\muhasebe.dll
+C:\Users\alimu\Desktop\OOP\proje\muhasebe\muhasebe\obj\Debug\net6.0-windows\refint\muhasebe.dll
+C:\Users\alimu\Desktop\OOP\proje\muhasebe\muhasebe\obj\Debug\net6.0-windows\muhasebe.pdb
+C:\Users\alimu\Desktop\OOP\proje\muhasebe\muhasebe\obj\Debug\net6.0-windows\muhasebe.genruntimeconfig.cache
+C:\Users\alimu\Desktop\OOP\proje\muhasebe\muhasebe\obj\Debug\net6.0-windows\ref\muhasebe.dll
