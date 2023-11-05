@@ -1,0 +1,17 @@
+C:\Users\alimu\Desktop\OOP\proje\calısan\calısan\bin\Debug\net6.0-windows\calısan.exe
+C:\Users\alimu\Desktop\OOP\proje\calısan\calısan\bin\Debug\net6.0-windows\calısan.deps.json
+C:\Users\alimu\Desktop\OOP\proje\calısan\calısan\bin\Debug\net6.0-windows\calısan.runtimeconfig.json
+C:\Users\alimu\Desktop\OOP\proje\calısan\calısan\bin\Debug\net6.0-windows\calısan.dll
+C:\Users\alimu\Desktop\OOP\proje\calısan\calısan\bin\Debug\net6.0-windows\calısan.pdb
+C:\Users\alimu\Desktop\OOP\proje\calısan\calısan\obj\Debug\net6.0-windows\calısan.Form1.resources
+C:\Users\alimu\Desktop\OOP\proje\calısan\calısan\obj\Debug\net6.0-windows\calısan.Properties.Resources.resources
+C:\Users\alimu\Desktop\OOP\proje\calısan\calısan\obj\Debug\net6.0-windows\calısan.csproj.GenerateResource.cache
+C:\Users\alimu\Desktop\OOP\proje\calısan\calısan\obj\Debug\net6.0-windows\calısan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alimu\Desktop\OOP\proje\calısan\calısan\obj\Debug\net6.0-windows\calısan.AssemblyInfoInputs.cache
+C:\Users\alimu\Desktop\OOP\proje\calısan\calısan\obj\Debug\net6.0-windows\calısan.AssemblyInfo.cs
+C:\Users\alimu\Desktop\OOP\proje\calısan\calısan\obj\Debug\net6.0-windows\calısan.csproj.CoreCompileInputs.cache
+C:\Users\alimu\Desktop\OOP\proje\calısan\calısan\obj\Debug\net6.0-windows\calısan.dll
+C:\Users\alimu\Desktop\OOP\proje\calısan\calısan\obj\Debug\net6.0-windows\refint\calısan.dll
+C:\Users\alimu\Desktop\OOP\proje\calısan\calısan\obj\Debug\net6.0-windows\calısan.pdb
+C:\Users\alimu\Desktop\OOP\proje\calısan\calısan\obj\Debug\net6.0-windows\calısan.genruntimeconfig.cache
+C:\Users\alimu\Desktop\OOP\proje\calısan\calısan\obj\Debug\net6.0-windows\ref\calısan.dll
