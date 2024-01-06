@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "login/1.0.0": {
+        "dependencies": {
+          "projeSınıf": "1.0.0"
+        },
         "runtime": {
           "login.dll": {}
+        }
+      },
+      "projeSınıf/1.0.0": {
+        "runtime": {
+          "projeSınıf.dll": {}
         }
       }
     }
   },
   "libraries": {
     "login/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "projeSınıf/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
